@@ -16,8 +16,6 @@ Chapter 9 does not contain any code.
 
 The code will look like the following:
 ```
-A block of code is set as follows:
-
     def square(x):
     return x * x
 
